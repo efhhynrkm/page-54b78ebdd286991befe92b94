@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://49p8.cn/sitemap.xml
